@@ -1,6 +1,6 @@
 # selfblog
 
-> Blog
+> Blog，个人测试用
 
 ## Build Setup
 
